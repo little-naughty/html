@@ -1,1 +1,1 @@
-little-naughty.github.io/html/
+https://little-naughty.github.io/html/
